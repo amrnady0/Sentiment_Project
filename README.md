@@ -1,21 +1,21 @@
 # Sentiment_Project
 Sentiment_Project for neural Networks
 
-#### Problem Description
+### Problem Description
 
 Sentiment Analysis using MLP Neural Network and TF-IDF.
 
-# Dataset
+### Dataset
 
 Custom text dataset.
 
-# Experiments
+### Experiments
 
 ReLU Activation
 Tanh Activation
 Results
 
-# Compare:
+### Compare:
 
 Accuracy
 Loss
