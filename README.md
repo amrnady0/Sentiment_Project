@@ -11,11 +11,11 @@ Custom text dataset.
 
 ### Experiments
 
-ReLU Activation
-Tanh Activation
+ReLU Activation,
+Tanh Activation,
 Results
 
 ### Compare:
 
-Accuracy
+Accuracy,
 Loss
